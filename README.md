@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/MarkOfosu/<OWNER>/<OWNER>/readme_header.png "Header")](https://best-clothing.netlify.app/)
+
+
 ### Hi there 👋
 
 <!--
@@ -10,3 +13,7 @@ I hold a Bachelor's degree in Information Science and recently completed an Asso
 I'm always looking to enhance my skills and expand my knowledge in new technologies, and I welcome feedback and collaboration on any of my projects. When I'm not coding, you can find me sipping coffee, coaching swimmers, or exploring new hiking trails.
 
 Thanks for visiting my GitHub page!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
