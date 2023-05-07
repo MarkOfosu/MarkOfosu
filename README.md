@@ -1,4 +1,6 @@
-[![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg "Header")]([https://example.com/](https://best-clothing.netlify.app/))
+
+[![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg "Header")](https://best-clothing.netlify.app/)
+
 
 ### Hi there 👋
 
