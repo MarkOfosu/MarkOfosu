@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/IMG_1476.JPG = 30x20 "Header")](https://best-clothing.netlify.app/)
+[![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/IMG_1476.JPG=30x20 "Header")](https://best-clothing.netlify.app/)
 
 ### Hi there 👋
 I'm Mark, a code enthusiast and caffeine connoisseur. I love programming and spend most of my time writing code and exploring new technologies. When I'm not in front of my computer, you can find me participating in triathlons, attempting to run, bike, and swim my way through them.
