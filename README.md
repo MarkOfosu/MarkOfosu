@@ -1,10 +1,19 @@
-[![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/IMG_1476.JPG "Header")](https://best-clothing.netlify.app/)
+[![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/IMG_1476_small.jpg "Header")](https://best-clothing.netlify.app/)
 
 ### Hi there 👋
 
 I'm Mark, a code enthusiast and caffeine connoisseur. I love programming and spend most of my time writing code and exploring new technologies. When I'm not in front of my computer, you can find me participating in triathlons, attempting to run, bike, and swim my way through them.
 
 I hold a Bachelor's degree in Information Science and recently completed an Associate's degree in Computer Science. Although I'm still new to the field of software engineering, I'm excited to see where my skills can take me. Most of my current projects involve web development, particularly using React JS.
+
+Here are some programming languages and tools that I'm familiar with:
+
+- HTML/CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
 
 I'm always looking to enhance my skills and expand my knowledge in new technologies, and I welcome feedback and collaboration on any of my projects. When I'm not coding, you can find me sipping coffee, coaching swimmers, or exploring new hiking trails.
 
