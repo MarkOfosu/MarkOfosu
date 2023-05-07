@@ -1,8 +1,6 @@
 
 [![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg "Header")](https://best-clothing.netlify.app/)
 
-<a href="url"><img src="[http://url.to/image.png](https://github.com/MarkOfosu/MarkOfosu/blob/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)" align="left" height="48" width="48" ></a>
-
 
 ### Hi there 👋
 
