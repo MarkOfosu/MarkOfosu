@@ -13,11 +13,10 @@ I'm always looking to enhance my skills and expand my knowledge in new technolog
 
 Thanks for visiting my GitHub page!
 
-[Links to some of my projects:]
-
-[Project 1 - Best-Clothing](https://best-clothing.netlify.app/)
-
+Links to some of my projects: [Project 1 - Best-Clothing](https://best-clothing.netlify.app/)     
 [Project 2 - Monsters - Rolodex](https://favorite-monsters-rolodex.netlify.app/)
+
+
 
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkOfosu&show_icons=true&theme=dark)
