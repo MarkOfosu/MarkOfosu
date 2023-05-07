@@ -6,19 +6,12 @@ I'm Mark, a code enthusiast and caffeine connoisseur. I love programming and spe
 
 I hold a Bachelor's degree in Information Science and recently completed an Associate's degree in Computer Science. Although I'm still new to the field of software engineering, I'm excited to see where my skills can take me. Most of my current projects involve web development, particularly using React JS.
 
-Here are some programming languages and tools that I'm familiar with:
-
-- HTML/CSS
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-
 I'm always looking to enhance my skills and expand my knowledge in new technologies, and I welcome feedback and collaboration on any of my projects. When I'm not coding, you can find me sipping coffee, coaching swimmers, or exploring new hiking trails.
 
 Thanks for visiting my GitHub page!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkOfosu&show_icons=true&theme=radical" />
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkOfosu&show_icons=true&theme=dark)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkOfosu&layout=compact&theme=dark)
+
+![Visitor Count](https://profile-counter.glitch.me/MarkOfosu/count.svg)
