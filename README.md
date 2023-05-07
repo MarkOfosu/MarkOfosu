@@ -1,5 +1,6 @@
 
-[![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg "Header")](https://best-clothing.netlify.app/)
+<img src="https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg" alt="image" width="100">
+
 
 
 ### Hi there 👋
@@ -12,7 +13,10 @@ I'm always looking to enhance my skills and expand my knowledge in new technolog
 
 Thanks for visiting my GitHub page!
 
-[Click here to visit my website!](https://favorite-monsters-rolodex.netlify.app/)
+Links to some of my projects:
+[Project 1 - Best-Clothing](https://best-clothing.netlify.app/)
+
+[Project 2 - Monsters - Rolodex](https://favorite-monsters-rolodex.netlify.app/)
 
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkOfosu&show_icons=true&theme=dark)
