@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg | width=100)
+<img src="https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg" alt="image" width="100">
 
 ### Hi there 👋
 
