@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg =250X250)
+![Header](https://raw.githubusercontent.com/MarkOfosu/MarkOfosu/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 
 ### Hi there 👋
 
