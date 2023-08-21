@@ -19,9 +19,6 @@ Thanks for visiting my GitHub page!
 
 
 
-
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkOfosu&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkOfosu&layout=compact&theme=dark)
 
 ![Visitor Count](https://profile-counter.glitch.me/MarkOfosu/count.svg)
