@@ -13,7 +13,7 @@ I'm always looking to enhance my skills and expand my knowledge of new technolog
 
 Thanks for visiting my GitHub page!
 
-[Project 1 - Best-Clothing](https://best-clothing.netlify.app/)  
+[Project 1 - Best-Clothing- 60% complete](https://best-clothing.netlify.app/)  
 
 [Project 2 - Monsters - Rolodex](https://favorite-monsters-rolodex.netlify.app/)
 
