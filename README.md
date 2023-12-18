@@ -12,11 +12,11 @@ I hold a Bachelor's degree in Information Science and recently completed an Asso
 I'm always looking to enhance my skills and expand my knowledge of new technologies, and I welcome feedback and collaboration on any of my projects. When I'm not coding, you can find me sipping coffee, coaching swimmers, or exploring new hiking trails.
 
 Thanks for visiting my GitHub page!
-
+<!--
 [Project 1 - Best-Clothing- 60% complete](https://best-clothing.netlify.app/)  
 
 [Project 2 - Monsters - Rolodex](https://favorite-monsters-rolodex.netlify.app/)
-
+-->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkOfosu&layout=compact&theme=dark)
