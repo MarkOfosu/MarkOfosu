@@ -7,7 +7,7 @@
 
 I'm Mark!
 
-As a passionate code enthusiast and self-proclaimed caffeine connoisseur, I immerse myself in the world of programming, constantly honing my skills in Node.js, Express.js, JaveScript, TypeScript, React, HTML, and CSS.
+As a passionate code enthusiast, I immerse myself in the world of programming, constantly honing my skills in Node.js, Express.js, JaveScript, TypeScript, React, HTML, and CSS.
 
 Beyond the screen, I channel my energy into triathlons, embracing the challenge of running, biking, and swimming. These experiences not only keep me physically active but also sharpen my focus and resilience – qualities I bring to every project I undertake.
 
