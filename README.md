@@ -5,11 +5,17 @@
 
 ### Hi there 👋
 
-I'm Mark, a code enthusiast and caffeine connoisseur. I love programming and spend most of my time writing code and exploring new technologies. When I'm not in front of my computer, you can find me participating in triathlons, attempting to run, bike, and swim my way through them.
+Hello, I'm Mark!
 
-I'm always looking to enhance my skills and expand my knowledge of new technologies, and I welcome feedback and collaboration on any of my projects. When I'm not coding, you can find me sipping coffee, coaching swimmers, or exploring new hiking trails.
+As a passionate code enthusiast and self-proclaimed caffeine connoisseur, I immerse myself in the world of programming, constantly honing my skills in Node.js, Express.js, JaveScript, TypeScript, React, HTML, and CSS.
 
-Thanks for visiting my GitHub page!
+Beyond the screen, I channel my energy into triathlons, embracing the challenge of running, biking, and swimming. These experiences not only keep me physically active but also sharpen my focus and resilience – qualities I bring to every project I undertake.
+
+In my professional journey, I've embraced a variety of roles that have allowed me to blend creativity with technical prowess. Whether it's developing intuitive user interfaces or crafting efficient backend solutions, I strive to deliver excellence in every line of code.
+
+I'm always eager to expand my technological horizons and collaborate with others who share my passion for innovation. If you're looking for a dynamic developer who thrives in fast-paced environments and brings a unique blend of skills and enthusiasm to the table, let's connect!
+
+Thanks for stopping by my GitHub page, and I look forward to the opportunity to collaborate and grow together in this exciting field of technology!
 <!--
 [Project 1 - Best-Clothing- 60% complete](https://best-clothing.netlify.app/)  
 
