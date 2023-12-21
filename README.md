@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-Hello, I'm Mark!
+I'm Mark!
 
 As a passionate code enthusiast and self-proclaimed caffeine connoisseur, I immerse myself in the world of programming, constantly honing my skills in Node.js, Express.js, JaveScript, TypeScript, React, HTML, and CSS.
 
