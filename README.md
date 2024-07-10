@@ -22,7 +22,42 @@ Thanks for stopping by my GitHub page, and I look forward to the opportunity to 
 [Project 2 - Monsters - Rolodex](https://favorite-monsters-rolodex.netlify.app/)
 -->
 
-[Pool management system - Ongoing Project](www.pool-ms.com) 
+# Pool Management System
+
+This is an ongoing project for managing a pool facility, including user registrations, reservations, and more.
+
+## Features
+
+- User registration and authentication
+- Reservation system for pool activities
+- Payment account management
+- Check-in and activity tracking
+
+## Technologies Used
+
+- Node.js
+- Express
+- PostgreSQL
+- React
+- Nginx
+- Docker
+
+## Live Project
+
+Visit the live project [here](https://www.pool-ms.com)
+
+## Test User Credentials
+
+Use the following credentials to sign in and test the application:
+
+### Admin User
+- **Username:** admin
+- **Password:** 123456
+
+### Regular User
+- **Username:** user1
+- **Password:** 123456
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkOfosu&layout=compact&theme=dark)
