@@ -7,13 +7,11 @@
 
 I'm Mark!
 
-As a passionate code enthusiast, I immerse myself in the world of programming, constantly honing my skills in Node.js, Express.js, JaveScript, TypeScript, React, HTML, and CSS.
+I am a passionate and curious software engineer with a strong enthusiasm for building innovative applications and exploring new technologies.
 
 Beyond the screen, I channel my energy into triathlons, embracing the challenge of running, biking, and swimming. These experiences not only keep me physically active but also sharpen my focus and resilience – qualities I bring to every project I undertake.
 
-In my professional journey, I've embraced a variety of roles that have allowed me to blend creativity with technical prowess. Whether it's developing intuitive user interfaces or crafting efficient backend solutions, I strive to deliver excellence in every line of code.
-
-I'm always eager to expand my technological horizons and collaborate with others who share my passion for innovation. If you're looking for a dynamic developer who thrives in fast-paced environments and brings a unique blend of skills and enthusiasm to the table, let's connect!
+I'm always eager to expand my technological horizons and collaborate with others who share my passion for innovation. If you're looking for a dynamic developer who will brings a unique blend of skills and enthusiasm to the table, let's connect!
 
 Thanks for stopping by my GitHub page, and I look forward to the opportunity to collaborate and grow together in this exciting field of technology!
 <!--
@@ -30,7 +28,6 @@ This is an ongoing project for managing a pool facility, including user registra
 
 - User registration and authentication
 - Reservation system for pool activities
-- Payment account management
 - Check-in and activity tracking
 
 ## Technologies Used
@@ -43,8 +40,9 @@ This is an ongoing project for managing a pool facility, including user registra
 - Docker
 
 ## Live Project
-
+self hosting this application on a mini home server I built
 Visit the live project [here](https://www.pool-ms.com)
+
 
 ## Test User Credentials
 
