@@ -41,7 +41,8 @@ This is an ongoing project for managing a pool facility, including user registra
 
 ## Live Project
 self hosting this application on a mini home server I built
-Visit the live project [here](https://www.pool-ms.com)
+
+Visit the live project [https://www.pool-ms.com](https://www.pool-ms.com)
 
 
 ## Test User Credentials
